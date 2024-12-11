@@ -1,0 +1,14 @@
+{
+  "name": "snyk-demo",
+  "version": "1.0.0",
+  "description": "Demo apliakacji skanowania podatności SNYK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.19"
+  },
+  "devDependencies": {},
+  "author": "Jakub"
+}
